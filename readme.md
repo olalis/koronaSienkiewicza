@@ -1,4 +1,12 @@
-# Wordpress for Azure App Services (Windows)
+# Korona Sienkiewicza
+
+## Game for the whole family
+
+Join our adventure and see increadible places from Karpaty Europy and other different parts of Europe. Complete all of required tasks to get a title of "Zdobywca Korony Sienkiewicza". 
+
+Take this opportiunity to learn more about increadible writer Henryk Sienkiewicz and his novels "Potop", "Ogniem i mieczem" and "Pan Wołodyjowski". Be adventourous, train resilience and brave as one of our heroes. 
+
+## Wordpress for Azure App Services (Windows)
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fazureappserviceoss%2Fwordpress-azure%2Fmaster%2Fazuredeploy.json)
 
@@ -9,7 +17,7 @@
 - For configuring database, please add the database connection string to App Service configuration.
 - By default SSL is enabled for MYSQL database connections. You can add a new App setting **DB_SSL_CONNECTION** and set it to false to disable the SSL option.
 
-## Template Parameters
+### Template Parameters
 
 - Resource Group - Select a resource group for the template resources
 - Region - Resource group region, automatically selected when selecting the resource group
@@ -20,7 +28,7 @@
 - Repo Url - Url of this Wordpress for Azure App Services repo (https://github.com/azureappserviceoss/wordpress-azure) or another repo
 - Branch - Branch name of above repo
 
-## Overview of WordPress
+### Overview of WordPress
 
 WordPress is a free and open source content management system (CMS) based on PHP and MySQL. It is the most widely used CMS software in the world, and as of June 2021, it powers more than 40% of the top 10 million websites and has an estimated 64% market share of all websites built using a CMS.
 
