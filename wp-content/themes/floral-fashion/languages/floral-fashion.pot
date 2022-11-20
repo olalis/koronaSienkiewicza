@@ -1,0 +1,252 @@
+# <!=Copyright (C) 2022 Blossom Themes
+# This file is distributed under the GNU General Public License v3 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Floral Fashion 1.0.2\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/floral-fashion\n"
+"POT-Creation-Date: 2022-09-09 11:16:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:58
+msgid "Demo & Documentation"
+msgstr ""
+
+#: functions.php:71
+msgid "Demo Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:73
+msgid "Documentation Link: %1$sClick here.%2$s"
+msgstr ""
+
+#: functions.php:89
+msgid "Appearance Settings"
+msgstr ""
+
+#: functions.php:109
+msgid "Primary Color"
+msgstr ""
+
+#: functions.php:110
+msgid "Primary color of the theme."
+msgstr ""
+
+#: functions.php:132
+msgid "Secondary Color"
+msgstr ""
+
+#: functions.php:133
+msgid "Secondary color of the theme."
+msgstr ""
+
+#: functions.php:145
+msgid "Typography"
+msgstr ""
+
+#: functions.php:165
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:166
+msgid "Primary font of the site."
+msgstr ""
+
+#: functions.php:187
+msgid "Secondary Font"
+msgstr ""
+
+#: functions.php:188
+msgid "Secondary font of the site."
+msgstr ""
+
+#: functions.php:209
+msgid "Load Google Fonts Locally"
+msgstr ""
+
+#: functions.php:210
+msgid ""
+"Enable to load google fonts from your own server instead from google's CDN. "
+"This solves privacy concerns with Google's CDN and their sometimes "
+"less-than-transparent policies."
+msgstr ""
+
+#: functions.php:229
+msgid "Preload Local Fonts"
+msgstr ""
+
+#: functions.php:230
+msgid "Preloading Google fonts will speed up your website speed."
+msgstr ""
+
+#: functions.php:238
+msgid "Click the button to reset the local fonts cache"
+msgstr ""
+
+#: functions.php:240
+msgid "Flush Local Font Files"
+msgstr ""
+
+#: functions.php:254
+msgid "Flush Local Fonts Cache"
+msgstr ""
+
+#: functions.php:271
+msgid "Layout Settings"
+msgstr ""
+
+#: functions.php:281 functions.php:302
+msgid "Header Layout"
+msgstr ""
+
+#: functions.php:303
+msgid "Choose the layout of the header for your site."
+msgstr ""
+
+#: functions.php:326
+msgid "%1$sClick here%2$s to change header settings."
+msgstr ""
+
+#: functions.php:345
+msgid "%1$sClick here%2$s to change header layout."
+msgstr ""
+
+#: functions.php:354 functions.php:374
+msgid "Slider Layout"
+msgstr ""
+
+#: functions.php:375
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: functions.php:398
+msgid "%1$sClick here%2$s to configure slider settings."
+msgstr ""
+
+#: functions.php:417
+msgid "%1$sClick here%2$s to select the layout of slider banner."
+msgstr ""
+
+#: functions.php:426
+msgid "Home Page Layout"
+msgstr ""
+
+#: functions.php:446
+msgid "Homepage Layout"
+msgstr ""
+
+#: functions.php:447
+msgid "Choose the layout of the homepage for your site."
+msgstr ""
+
+#: functions.php:460
+msgid "General Sidebar Layout"
+msgstr ""
+
+#: functions.php:480
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: functions.php:481
+msgid ""
+"This is the general sidebar layout for pages. You can override the sidebar "
+"layout for individual page in respective page."
+msgstr ""
+
+#: functions.php:507
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: functions.php:508
+msgid ""
+"This is the general sidebar layout for posts & custom post. You can "
+"override the sidebar layout for individual post in respective post."
+msgstr ""
+
+#: functions.php:535
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: functions.php:536
+msgid "This is the general sidebar layout for whole site."
+msgstr ""
+
+#: functions.php:775
+msgid "Floral Fashion | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Blossom Themes"
+msgstr ""
+
+#: functions.php:777
+msgid " Powered by %s. "
+msgstr ""
+
+#: functions.php:777
+msgid "https://wordpress.org/"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Floral Fashion"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://blossomthemes.com/wordpress-themes/floral-fashion/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Floral Fashion is a multipurpose, easy to use and mobile-friendly blog "
+"theme for professional bloggers. It is optimized to load fast to help you "
+"rank better on search engines. With Floral Fashion, you can create a "
+"website of different niches such as fashion, travel, lifestyle, beauty, "
+"recipes, makeup, journal, mom blog, coaching and much more. You can also "
+"choose from unlimited colors and 1000+ Google Fonts to change your site "
+"look and feel with a single click. In addition, you can flaunt your "
+"Instagram posts and increase your followers. The newsletter integration "
+"will help you grow your email list and stay in touch with your readers. "
+"Floral Fashion is SEO-friendly, translation ready, RTL ready and "
+"WooCommerce compatible. Check demo at "
+"https://blossomthemes.com/theme-demo/?theme=floral-fashion, read the "
+"documentation at https://docs.blossomthemes.com/floral-fashion/, and get "
+"support at https://blossomthemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: functions.php:814
+#. Translators: If there are characters in your language that are not supported
+#. by respective fonts, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Primary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:815
+msgctxt "Secondary Font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:816
+msgctxt "Site Title Font: on or off"
+msgid "on"
+msgstr ""
